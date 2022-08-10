@@ -1,0 +1,151 @@
+Time taken to generate 10000000 RNs: 41.318 (ms). 
+Gen + Transfer. Speed = 242.03 MRS. Gen. Speed = 1439.06 MRS
+
+Time taken to generate 10000000 RNs: 15.680 (ms). 
+Gen + Transfer. Speed = 637.76 MRS. Gen. Speed = 1434.72 MRS
+
+Time taken to generate 10000000 RNs: 15.432 (ms). 
+Gen + Transfer. Speed = 648.00 MRS. Gen. Speed = 1417.23 MRS
+
+Time taken to generate 10000000 RNs: 15.665 (ms). 
+Gen + Transfer. Speed = 638.37 MRS. Gen. Speed = 1427.35 MRS
+
+Time taken to generate 10000000 RNs: 15.690 (ms). 
+Gen + Transfer. Speed = 637.35 MRS. Gen. Speed = 1425.11 MRS
+
+Time taken to generate 10000000 RNs: 15.649 (ms). 
+Gen + Transfer. Speed = 639.02 MRS. Gen. Speed = 1427.76 MRS
+
+Time taken to generate 10000000 RNs: 15.394 (ms). 
+Gen + Transfer. Speed = 649.60 MRS. Gen. Speed = 1430.21 MRS
+
+Time taken to generate 10000000 RNs: 15.581 (ms). 
+Gen + Transfer. Speed = 641.81 MRS. Gen. Speed = 1433.28 MRS
+
+Time taken to generate 10000000 RNs: 16.177 (ms). 
+Gen + Transfer. Speed = 618.16 MRS. Gen. Speed = 1443.42 MRS
+
+Time taken to generate 10000000 RNs: 15.511 (ms). 
+Gen + Transfer. Speed = 644.70 MRS. Gen. Speed = 1431.02 MRS
+
+Time taken to generate 10000000 RNs: 15.909 (ms). 
+Gen + Transfer. Speed = 628.58 MRS. Gen. Speed = 1385.04 MRS
+
+Time taken to generate 10000000 RNs: 17.649 (ms). 
+Gen + Transfer. Speed = 566.60 MRS. Gen. Speed = 1424.91 MRS
+
+Time taken to generate 10000000 RNs: 16.423 (ms). 
+Gen + Transfer. Speed = 608.90 MRS. Gen. Speed = 1443.00 MRS
+
+Time taken to generate 10000000 RNs: 15.528 (ms). 
+Gen + Transfer. Speed = 644.00 MRS. Gen. Speed = 1425.72 MRS
+
+Time taken to generate 10000000 RNs: 15.603 (ms). 
+Gen + Transfer. Speed = 640.90 MRS. Gen. Speed = 1437.61 MRS
+
+Time taken to generate 10000000 RNs: 15.600 (ms). 
+Gen + Transfer. Speed = 641.03 MRS. Gen. Speed = 1435.54 MRS
+
+Time taken to generate 10000000 RNs: 15.571 (ms). 
+Gen + Transfer. Speed = 642.22 MRS. Gen. Speed = 1427.35 MRS
+
+Time taken to generate 10000000 RNs: 15.346 (ms). 
+Gen + Transfer. Speed = 651.64 MRS. Gen. Speed = 1433.69 MRS
+
+Time taken to generate 10000000 RNs: 15.329 (ms). 
+Gen + Transfer. Speed = 652.36 MRS. Gen. Speed = 1435.54 MRS
+
+Time taken to generate 10000000 RNs: 15.735 (ms). 
+Gen + Transfer. Speed = 635.53 MRS. Gen. Speed = 1432.25 MRS
+
+Time taken to generate 10000000 RNs: 15.715 (ms). 
+Gen + Transfer. Speed = 636.33 MRS. Gen. Speed = 1434.72 MRS
+
+Time taken to generate 10000000 RNs: 15.582 (ms). 
+Gen + Transfer. Speed = 641.77 MRS. Gen. Speed = 1435.34 MRS
+
+Time taken to generate 10000000 RNs: 15.632 (ms). 
+Gen + Transfer. Speed = 639.71 MRS. Gen. Speed = 1415.43 MRS
+
+Time taken to generate 10000000 RNs: 15.605 (ms). 
+Gen + Transfer. Speed = 640.82 MRS. Gen. Speed = 1433.69 MRS
+
+Time taken to generate 10000000 RNs: 15.434 (ms). 
+Gen + Transfer. Speed = 647.92 MRS. Gen. Speed = 1428.37 MRS
+
+Time taken to generate 10000000 RNs: 15.659 (ms). 
+Gen + Transfer. Speed = 638.61 MRS. Gen. Speed = 1433.49 MRS
+
+Time taken to generate 10000000 RNs: 17.161 (ms). 
+Gen + Transfer. Speed = 582.72 MRS. Gen. Speed = 1441.34 MRS
+
+Time taken to generate 10000000 RNs: 16.006 (ms). 
+Gen + Transfer. Speed = 624.77 MRS. Gen. Speed = 1431.23 MRS
+
+Time taken to generate 10000000 RNs: 15.717 (ms). 
+Gen + Transfer. Speed = 636.25 MRS. Gen. Speed = 1432.66 MRS
+
+Time taken to generate 10000000 RNs: 15.568 (ms). 
+Gen + Transfer. Speed = 642.34 MRS. Gen. Speed = 1427.14 MRS
+
+Time taken to generate 10000000 RNs: 15.573 (ms). 
+Gen + Transfer. Speed = 642.14 MRS. Gen. Speed = 1427.96 MRS
+
+Time taken to generate 10000000 RNs: 15.626 (ms). 
+Gen + Transfer. Speed = 639.96 MRS. Gen. Speed = 1430.00 MRS
+
+Time taken to generate 10000000 RNs: 15.594 (ms). 
+Gen + Transfer. Speed = 641.27 MRS. Gen. Speed = 1430.21 MRS
+
+Time taken to generate 10000000 RNs: 15.652 (ms). 
+Gen + Transfer. Speed = 638.90 MRS. Gen. Speed = 1428.37 MRS
+
+Time taken to generate 10000000 RNs: 16.142 (ms). 
+Gen + Transfer. Speed = 619.50 MRS. Gen. Speed = 1344.63 MRS
+
+Time taken to generate 10000000 RNs: 16.442 (ms). 
+Gen + Transfer. Speed = 608.20 MRS. Gen. Speed = 1431.84 MRS
+
+Time taken to generate 10000000 RNs: 15.491 (ms). 
+Gen + Transfer. Speed = 645.54 MRS. Gen. Speed = 1429.80 MRS
+
+Time taken to generate 10000000 RNs: 15.413 (ms). 
+Gen + Transfer. Speed = 648.80 MRS. Gen. Speed = 1418.24 MRS
+
+Time taken to generate 10000000 RNs: 15.418 (ms). 
+Gen + Transfer. Speed = 648.59 MRS. Gen. Speed = 1423.89 MRS
+
+Time taken to generate 10000000 RNs: 15.636 (ms). 
+Gen + Transfer. Speed = 639.55 MRS. Gen. Speed = 1426.74 MRS
+
+Time taken to generate 10000000 RNs: 15.438 (ms). 
+Gen + Transfer. Speed = 647.75 MRS. Gen. Speed = 1434.72 MRS
+
+Time taken to generate 10000000 RNs: 15.599 (ms). 
+Gen + Transfer. Speed = 641.07 MRS. Gen. Speed = 1440.09 MRS
+
+Time taken to generate 10000000 RNs: 18.279 (ms). 
+Gen + Transfer. Speed = 547.08 MRS. Gen. Speed = 1432.87 MRS
+
+Time taken to generate 10000000 RNs: 15.669 (ms). 
+Gen + Transfer. Speed = 638.20 MRS. Gen. Speed = 1425.92 MRS
+
+Time taken to generate 10000000 RNs: 15.711 (ms). 
+Gen + Transfer. Speed = 636.50 MRS. Gen. Speed = 1437.40 MRS
+
+Time taken to generate 10000000 RNs: 15.364 (ms). 
+Gen + Transfer. Speed = 650.87 MRS. Gen. Speed = 1443.00 MRS
+
+Time taken to generate 10000000 RNs: 15.637 (ms). 
+Gen + Transfer. Speed = 639.51 MRS. Gen. Speed = 1430.21 MRS
+
+Time taken to generate 10000000 RNs: 15.560 (ms). 
+Gen + Transfer. Speed = 642.67 MRS. Gen. Speed = 1436.16 MRS
+
+Time taken to generate 10000000 RNs: 15.744 (ms). 
+Gen + Transfer. Speed = 635.16 MRS. Gen. Speed = 1419.24 MRS
+
+Time taken to generate 10000000 RNs: 16.619 (ms). 
+Gen + Transfer. Speed = 601.72 MRS. Gen. Speed = 1349.35 MRS
+
+Time taken (ms): 47999.623

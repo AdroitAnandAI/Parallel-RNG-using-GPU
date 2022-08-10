@@ -1,0 +1,311 @@
+
+About to compute matrix, M.
+Compute matrix, M done!
+
+Doing the pre-processing step: Generate M ^ iL matrix in GPU. Note that it is a one time processing step. Once computed, it can be kept in GPU DRAM or disk.................
+
+Pre-processing step: M ^ iL matrix generation done.
+
+Generating random numbers iteratively using CST:
+
+
+Iteration 0:
+RNs inside Unit Circle = 15714536, Outside = 4285464, 3.142907
+Time taken to generate 10000000 RNs: 39.831 (ms). 
+Gen+Transfer. Speed = 251.06 MRS. Gen. Speed = 1929.76 MRS
+
+
+Iteration 1:
+RNs inside Unit Circle = 15711680, Outside = 4288320, 3.142336
+Time taken to generate 10000000 RNs: 15.797 (ms). 
+Gen+Transfer. Speed = 633.03 MRS. Gen. Speed = 1859.08 MRS
+
+
+Iteration 2:
+RNs inside Unit Circle = 15710496, Outside = 4289504, 3.142099
+Time taken to generate 10000000 RNs: 15.426 (ms). 
+Gen+Transfer. Speed = 648.26 MRS. Gen. Speed = 1841.62 MRS
+
+
+Iteration 3:
+RNs inside Unit Circle = 15710728, Outside = 4289272, 3.142146
+Time taken to generate 10000000 RNs: 13.726 (ms). 
+Gen+Transfer. Speed = 728.54 MRS. Gen. Speed = 1939.86 MRS
+
+
+Iteration 4:
+RNs inside Unit Circle = 15707604, Outside = 4292396, 3.141521
+Time taken to generate 10000000 RNs: 15.234 (ms). 
+Gen+Transfer. Speed = 656.43 MRS. Gen. Speed = 1586.80 MRS
+
+
+Iteration 5:
+RNs inside Unit Circle = 15706100, Outside = 4293900, 3.141220
+Time taken to generate 10000000 RNs: 13.766 (ms). 
+Gen+Transfer. Speed = 726.43 MRS. Gen. Speed = 1931.62 MRS
+
+
+Iteration 6:
+RNs inside Unit Circle = 15711684, Outside = 4288316, 3.142337
+Time taken to generate 10000000 RNs: 13.871 (ms). 
+Gen+Transfer. Speed = 720.93 MRS. Gen. Speed = 1905.85 MRS
+
+
+Iteration 7:
+RNs inside Unit Circle = 15708508, Outside = 4291492, 3.141702
+Time taken to generate 10000000 RNs: 14.041 (ms). 
+Gen+Transfer. Speed = 712.20 MRS. Gen. Speed = 1799.21 MRS
+
+
+Iteration 8:
+RNs inside Unit Circle = 15707712, Outside = 4292288, 3.141542
+Time taken to generate 10000000 RNs: 14.133 (ms). 
+Gen+Transfer. Speed = 707.56 MRS. Gen. Speed = 1766.16 MRS
+
+
+Iteration 9:
+RNs inside Unit Circle = 15711112, Outside = 4288888, 3.142222
+Time taken to generate 10000000 RNs: 13.886 (ms). 
+Gen+Transfer. Speed = 720.15 MRS. Gen. Speed = 1921.60 MRS
+
+
+Iteration 10:
+RNs inside Unit Circle = 15711220, Outside = 4288780, 3.142244
+Time taken to generate 10000000 RNs: 13.747 (ms). 
+Gen+Transfer. Speed = 727.43 MRS. Gen. Speed = 1933.86 MRS
+
+
+Iteration 11:
+RNs inside Unit Circle = 15704216, Outside = 4295784, 3.140843
+Time taken to generate 10000000 RNs: 13.901 (ms). 
+Gen+Transfer. Speed = 719.37 MRS. Gen. Speed = 1901.86 MRS
+
+
+Iteration 12:
+RNs inside Unit Circle = 15704824, Outside = 4295176, 3.140965
+Time taken to generate 10000000 RNs: 13.697 (ms). 
+Gen+Transfer. Speed = 730.09 MRS. Gen. Speed = 1933.86 MRS
+
+
+Iteration 13:
+RNs inside Unit Circle = 15704284, Outside = 4295716, 3.140857
+Time taken to generate 10000000 RNs: 14.769 (ms). 
+Gen+Transfer. Speed = 677.09 MRS. Gen. Speed = 1831.84 MRS
+
+
+Iteration 14:
+RNs inside Unit Circle = 15708708, Outside = 4291292, 3.141742
+Time taken to generate 10000000 RNs: 13.876 (ms). 
+Gen+Transfer. Speed = 720.67 MRS. Gen. Speed = 1934.61 MRS
+
+
+Iteration 15:
+RNs inside Unit Circle = 15709212, Outside = 4290788, 3.141842
+Time taken to generate 10000000 RNs: 13.801 (ms). 
+Gen+Transfer. Speed = 724.59 MRS. Gen. Speed = 1907.30 MRS
+
+
+Iteration 16:
+RNs inside Unit Circle = 15704092, Outside = 4295908, 3.140818
+Time taken to generate 10000000 RNs: 13.876 (ms). 
+Gen+Transfer. Speed = 720.67 MRS. Gen. Speed = 1913.88 MRS
+
+
+Iteration 17:
+RNs inside Unit Circle = 15713156, Outside = 4286844, 3.142631
+Time taken to generate 10000000 RNs: 13.733 (ms). 
+Gen+Transfer. Speed = 728.17 MRS. Gen. Speed = 1929.38 MRS
+
+
+Iteration 18:
+RNs inside Unit Circle = 15707792, Outside = 4292208, 3.141558
+Time taken to generate 10000000 RNs: 13.749 (ms). 
+Gen+Transfer. Speed = 727.33 MRS. Gen. Speed = 1934.24 MRS
+
+
+Iteration 19:
+RNs inside Unit Circle = 15705044, Outside = 4294956, 3.141009
+Time taken to generate 10000000 RNs: 13.659 (ms). 
+Gen+Transfer. Speed = 732.12 MRS. Gen. Speed = 1927.15 MRS
+
+
+Iteration 20:
+RNs inside Unit Circle = 15701196, Outside = 4298804, 3.140239
+Time taken to generate 10000000 RNs: 14.572 (ms). 
+Gen+Transfer. Speed = 686.25 MRS. Gen. Speed = 1707.65 MRS
+
+
+Iteration 21:
+RNs inside Unit Circle = 15706980, Outside = 4293020, 3.141396
+Time taken to generate 10000000 RNs: 13.911 (ms). 
+Gen+Transfer. Speed = 718.86 MRS. Gen. Speed = 1907.30 MRS
+
+
+Iteration 22:
+RNs inside Unit Circle = 15712376, Outside = 4287624, 3.142475
+Time taken to generate 10000000 RNs: 13.962 (ms). 
+Gen+Transfer. Speed = 716.23 MRS. Gen. Speed = 1904.76 MRS
+
+
+Iteration 23:
+RNs inside Unit Circle = 15706044, Outside = 4293956, 3.141209
+Time taken to generate 10000000 RNs: 14.112 (ms). 
+Gen+Transfer. Speed = 708.62 MRS. Gen. Speed = 1927.53 MRS
+
+
+Iteration 24:
+RNs inside Unit Circle = 15707104, Outside = 4292896, 3.141421
+Time taken to generate 10000000 RNs: 13.917 (ms). 
+Gen+Transfer. Speed = 718.55 MRS. Gen. Speed = 1864.28 MRS
+
+
+Iteration 25:
+RNs inside Unit Circle = 15708236, Outside = 4291764, 3.141647
+Time taken to generate 10000000 RNs: 13.763 (ms). 
+Gen+Transfer. Speed = 726.59 MRS. Gen. Speed = 1897.89 MRS
+
+
+Iteration 26:
+RNs inside Unit Circle = 15708348, Outside = 4291652, 3.141670
+Time taken to generate 10000000 RNs: 13.788 (ms). 
+Gen+Transfer. Speed = 725.27 MRS. Gen. Speed = 1906.21 MRS
+
+
+Iteration 27:
+RNs inside Unit Circle = 15710232, Outside = 4289768, 3.142046
+Time taken to generate 10000000 RNs: 13.783 (ms). 
+Gen+Transfer. Speed = 725.53 MRS. Gen. Speed = 1900.78 MRS
+
+
+Iteration 28:
+RNs inside Unit Circle = 15707032, Outside = 4292968, 3.141406
+Time taken to generate 10000000 RNs: 13.784 (ms). 
+Gen+Transfer. Speed = 725.48 MRS. Gen. Speed = 1932.74 MRS
+
+
+Iteration 29:
+RNs inside Unit Circle = 15707308, Outside = 4292692, 3.141462
+Time taken to generate 10000000 RNs: 13.657 (ms). 
+Gen+Transfer. Speed = 732.23 MRS. Gen. Speed = 1940.99 MRS
+
+
+Iteration 30:
+RNs inside Unit Circle = 15704004, Outside = 4295996, 3.140801
+Time taken to generate 10000000 RNs: 13.957 (ms). 
+Gen+Transfer. Speed = 716.49 MRS. Gen. Speed = 1878.64 MRS
+
+
+Iteration 31:
+RNs inside Unit Circle = 15710492, Outside = 4289508, 3.142098
+Time taken to generate 10000000 RNs: 14.148 (ms). 
+Gen+Transfer. Speed = 706.81 MRS. Gen. Speed = 1823.15 MRS
+
+
+Iteration 32:
+RNs inside Unit Circle = 15710588, Outside = 4289412, 3.142118
+Time taken to generate 10000000 RNs: 13.569 (ms). 
+Gen+Transfer. Speed = 736.97 MRS. Gen. Speed = 1929.76 MRS
+
+
+Iteration 33:
+RNs inside Unit Circle = 15706924, Outside = 4293076, 3.141385
+Time taken to generate 10000000 RNs: 14.255 (ms). 
+Gen+Transfer. Speed = 701.51 MRS. Gen. Speed = 1942.12 MRS
+
+
+Iteration 34:
+RNs inside Unit Circle = 15706236, Outside = 4293764, 3.141247
+Time taken to generate 10000000 RNs: 14.036 (ms). 
+Gen+Transfer. Speed = 712.45 MRS. Gen. Speed = 1915.71 MRS
+
+
+Iteration 35:
+RNs inside Unit Circle = 15704536, Outside = 4295464, 3.140907
+Time taken to generate 10000000 RNs: 14.035 (ms). 
+Gen+Transfer. Speed = 712.50 MRS. Gen. Speed = 1928.27 MRS
+
+
+Iteration 36:
+RNs inside Unit Circle = 15703012, Outside = 4296988, 3.140602
+Time taken to generate 10000000 RNs: 13.807 (ms). 
+Gen+Transfer. Speed = 724.27 MRS. Gen. Speed = 1916.81 MRS
+
+
+Iteration 37:
+RNs inside Unit Circle = 15705120, Outside = 4294880, 3.141024
+Time taken to generate 10000000 RNs: 15.644 (ms). 
+Gen+Transfer. Speed = 639.22 MRS. Gen. Speed = 1934.61 MRS
+
+
+Iteration 38:
+RNs inside Unit Circle = 15706680, Outside = 4293320, 3.141336
+Time taken to generate 10000000 RNs: 14.066 (ms). 
+Gen+Transfer. Speed = 710.93 MRS. Gen. Speed = 1933.49 MRS
+
+
+Iteration 39:
+RNs inside Unit Circle = 15700548, Outside = 4299452, 3.140110
+Time taken to generate 10000000 RNs: 13.756 (ms). 
+Gen+Transfer. Speed = 726.96 MRS. Gen. Speed = 1899.70 MRS
+
+
+Iteration 40:
+RNs inside Unit Circle = 15704328, Outside = 4295672, 3.140866
+Time taken to generate 10000000 RNs: 13.927 (ms). 
+Gen+Transfer. Speed = 718.03 MRS. Gen. Speed = 1959.25 MRS
+
+
+Iteration 41:
+RNs inside Unit Circle = 15710016, Outside = 4289984, 3.142003
+Time taken to generate 10000000 RNs: 15.850 (ms). 
+Gen+Transfer. Speed = 630.91 MRS. Gen. Speed = 1490.98 MRS
+
+
+Iteration 42:
+RNs inside Unit Circle = 15710228, Outside = 4289772, 3.142046
+Time taken to generate 10000000 RNs: 14.526 (ms). 
+Gen+Transfer. Speed = 688.42 MRS. Gen. Speed = 1920.12 MRS
+
+
+Iteration 43:
+RNs inside Unit Circle = 15711816, Outside = 4288184, 3.142363
+Time taken to generate 10000000 RNs: 13.837 (ms). 
+Gen+Transfer. Speed = 722.70 MRS. Gen. Speed = 1911.31 MRS
+
+
+Iteration 44:
+RNs inside Unit Circle = 15703640, Outside = 4296360, 3.140728
+Time taken to generate 10000000 RNs: 13.614 (ms). 
+Gen+Transfer. Speed = 734.54 MRS. Gen. Speed = 1938.36 MRS
+
+
+Iteration 45:
+RNs inside Unit Circle = 15710808, Outside = 4289192, 3.142162
+Time taken to generate 10000000 RNs: 13.636 (ms). 
+Gen+Transfer. Speed = 733.35 MRS. Gen. Speed = 1945.90 MRS
+
+
+Iteration 46:
+RNs inside Unit Circle = 15710124, Outside = 4289876, 3.142025
+Time taken to generate 10000000 RNs: 13.814 (ms). 
+Gen+Transfer. Speed = 723.90 MRS. Gen. Speed = 1930.13 MRS
+
+
+Iteration 47:
+RNs inside Unit Circle = 15704448, Outside = 4295552, 3.140890
+Time taken to generate 10000000 RNs: 15.022 (ms). 
+Gen+Transfer. Speed = 665.69 MRS. Gen. Speed = 1934.98 MRS
+
+
+Iteration 48:
+RNs inside Unit Circle = 15716960, Outside = 4283040, 3.143392
+Time taken to generate 10000000 RNs: 13.753 (ms). 
+Gen+Transfer. Speed = 727.11 MRS. Gen. Speed = 1925.30 MRS
+
+
+Iteration 49:
+RNs inside Unit Circle = 15708456, Outside = 4291544, 3.141691
+Time taken to generate 10000000 RNs: 13.625 (ms). 
+Gen+Transfer. Speed = 733.94 MRS. Gen. Speed = 1921.60 MRS
+
+Total Time taken (ms): 191441.880
