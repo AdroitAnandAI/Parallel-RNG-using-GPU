@@ -6,6 +6,6 @@ Notable Source Codes:
 - ALFG_Single.cu
 - GFSR.cu
 
-[![Watch Project Presentation](thumbnail.png)](https://www.youtube.com/watch?v=fRw_0xOPTUA)
+[![Watch Project Presentation](thumbnail.jpg)](https://www.youtube.com/watch?v=fRw_0xOPTUA)
 
 
