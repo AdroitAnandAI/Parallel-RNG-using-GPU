@@ -5,3 +5,5 @@ Notable Source Codes:
 - ALFG_Multi.cu
 - ALFG_Single.cu
 - GFSR.cu
+
+https://www.youtube.com/watch?v=fRw_0xOPTUA
