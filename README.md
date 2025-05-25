@@ -1,4 +1,4 @@
-# ⚡ High-Performance Parallel Random Number Generators on NVIDIA CUDA: ALFG & GFSR Implementations
+# ⚡ High-Performance Parallel Random Number Generators on CUDA: ALFG & GFSR Algorithms
 
 ## Summary
 
